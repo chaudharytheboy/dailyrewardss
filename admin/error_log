@@ -1,0 +1,25 @@
+[10-May-2019 13:28:54 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:28:54 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[10-May-2019 13:30:46 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:30:46 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[10-May-2019 13:30:46 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:30:46 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[10-May-2019 13:30:46 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:30:46 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[10-May-2019 13:31:20 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:31:20 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[10-May-2019 13:32:22 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:32:22 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[10-May-2019 13:35:57 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:35:57 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[10-May-2019 13:38:41 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:38:41 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[10-May-2019 13:41:21 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:41:21 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[10-May-2019 13:41:46 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[10-May-2019 13:41:46 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[11-May-2019 07:28:36 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[11-May-2019 07:28:36 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[11-May-2019 07:29:08 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 35
+[11-May-2019 07:29:08 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/dailyrewardss.com/admin/update_url.php on line 46
+[21-May-2019 09:39:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostingadmin/dailyrewardss.com/admin/layout-top.php:1) in /home/hostingadmin/dailyrewardss.com/admin/add_products.php on line 28
